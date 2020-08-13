@@ -1,0 +1,74 @@
+body
+{
+	background-color: black; 
+	margin: 0;
+	font-family: Montserrat;
+}
+.square
+{
+	width:30%;
+     background-color: blue;
+     padding-bottom: 30%;
+     margin:1.66%;
+     float: left; 
+     border-radius: 15%;
+ transition: background 0.6s;
+}
+.container
+{
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 20px;
+}
+h1
+{
+	margin:0;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	background-color: steelblue;
+	text-transform: uppercase;
+	line-height: 1.1;
+	padding: 20px 0;
+	
+	font-weight: normal;
+
+}
+#pick
+{
+	font-size: 120%;
+}
+.p
+{
+	text-align: center;
+	background-color: white;
+	height: 30px;
+}	
+.selected
+{
+	background-color: steelblue;
+	color: white;
+}
+button
+{
+	border: none;
+	background: none;
+	text-transform: uppercase;color: steelblue;
+	letter-spacing: 1px;
+	height: 100%;
+	transition: all 0.75s;
+	font-weight: bold;
+	outline: none;
+
+}
+#co
+{
+	display: inline-block;
+	width: 20%;
+	font-weight: bold;
+}
+button:hover
+{
+	background-color: steelblue;
+	color: white;
+}
