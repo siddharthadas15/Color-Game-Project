@@ -3,6 +3,6 @@ A simple RGB color guessing game with varying difficulty levels.(Front End Web A
 
 ## Built With
 
-- JQurey
+- JQurey/
 - CSS
 - HTML
